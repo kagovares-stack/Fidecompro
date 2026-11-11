@@ -1,0 +1,10 @@
+# Compilados de Maven / NetBeans
+target/
+nbproject/private/
+nb-configuration.xml
+
+# Datos generados al ejecutar la aplicacion (solo la carpeta de la raiz, no el paquete datos)
+/datos/
+
+# Sistema
+.DS_Store
